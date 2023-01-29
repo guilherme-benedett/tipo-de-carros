@@ -1,0 +1,14 @@
+@media screen  and (min-width: 815px){
+    main{
+        height: 100vh;
+    }
+    section{
+        display: flex;
+        flex-direction: row;
+        width: 815px;
+        height: 300px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
